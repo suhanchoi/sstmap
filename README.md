@@ -4,6 +4,8 @@
 
 < data file manual >
 
+data : 중력 가속도, 선형 가속도, 자이로스코프
+
 VAT.py : Virtual Adversarial Training_source
 
 train : Given label(concentraion or not)
